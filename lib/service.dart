@@ -8,4 +8,12 @@ class Service {
   void loginUser() {
     print("User has been logged in");
   }
+
+  void signUpUser() {
+    print("User has been signed up");
+  }
+
+  void getUserData() {
+    print("User's Data has been captured");
+  }
 }
