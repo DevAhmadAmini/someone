@@ -16,4 +16,8 @@ class Service {
   void getUserData() {
     print("User's Data has been captured");
   }
+
+  void cancelUserAuthentication(){
+    print("User's Data has been Expired");
+  }
 }
