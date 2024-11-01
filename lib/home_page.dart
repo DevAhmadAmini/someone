@@ -55,3 +55,7 @@ class _HomePageState extends State<HomePage> {
 void moveBack() {
   print("The Vehicle has been moved away");
 }
+
+void moveForward() {
+  print("The Vehicle has been moved forward");
+}
